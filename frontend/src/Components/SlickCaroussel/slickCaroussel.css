@@ -1,0 +1,21 @@
+.slick-prev:before {
+  position: absolute;
+  font-size: 2rem;
+  color: rgb(149, 0, 255);
+  z-index: 20 !important;
+  left: 2rem;
+  top: 0;
+  padding: 0px 0px;
+}
+.slick-next:before {
+  position: absolute;
+  color: rgb(149, 0, 255);
+  font-size: 2rem;
+  z-index: 10;
+  top: 0;
+  right: 2rem !important;
+}
+
+.slick-arrow {
+  z-index: 10;
+}
