@@ -4,7 +4,7 @@
 OXO is a web application for showcasing new and popular car models. This README provides an overview of the project structure and features.
 Features
 
-![](../assets/car.PNG)
+![](assets/car.PNG)
 
 Clean, modern UI design
 Responsive layout
