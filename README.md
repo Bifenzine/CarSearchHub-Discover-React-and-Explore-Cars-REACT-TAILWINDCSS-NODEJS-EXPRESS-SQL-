@@ -1,8 +1,10 @@
 # carShowcase
 
-OXO Car Showcase
+# OXO Car Showcase
 OXO is a web application for showcasing new and popular car models. This README provides an overview of the project structure and features.
 Features
+
+![](../assets/car.jpg)
 
 Clean, modern UI design
 Responsive layout
